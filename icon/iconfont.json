@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7466524",
+      "name": "邮件，Email，邮箱，收件",
+      "font_class": "huabanfuben",
+      "unicode": "e696",
+      "unicode_decimal": 59030
+    },
+    {
+      "icon_id": "11983544",
+      "name": "google",
+      "font_class": "google",
+      "unicode": "ea0c",
+      "unicode_decimal": 59916
+    },
+    {
+      "icon_id": "18883808",
+      "name": "LinkedIN",
+      "font_class": "LinkedIN",
+      "unicode": "e951",
+      "unicode_decimal": 59729
+    }
+  ]
+}
