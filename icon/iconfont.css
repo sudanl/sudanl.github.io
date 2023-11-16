@@ -23,3 +23,22 @@
   content: "\e951";
 }
 
+@font-face {
+  font-family: "iconfont"; /* Project id 4331406 */
+  src: url('//at.alicdn.com/t/c/font_4331406_90q5wx0ndfv.woff2?t=1700027473141') format('woff2'),
+       url('//at.alicdn.com/t/c/font_4331406_90q5wx0ndfv.woff?t=1700027473141') format('woff'),
+       url('//at.alicdn.com/t/c/font_4331406_90q5wx0ndfv.ttf?t=1700027473141') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-twiterHover:before {
+  content: "\e68d";
+}
+

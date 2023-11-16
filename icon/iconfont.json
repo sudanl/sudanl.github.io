@@ -25,6 +25,14 @@
       "font_class": "LinkedIN",
       "unicode": "e951",
       "unicode_decimal": 59729
+    },
+    {
+      "icon_id": "12749295",
+      "name": "twiterHover'",
+      "font_class": "twiterHover",
+      "unicode": "e68d",
+      "unicode_decimal": 59021
     }
-  ]
+    ]
 }
+
